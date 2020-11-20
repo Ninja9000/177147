@@ -1,4 +1,4 @@
-//Needs neighbor checks and good grid math.
+//Needs neighbor checks.
 
 var c = document.getElementById("gameCanvas");
 var ctx = c.getContext('2d');
@@ -68,7 +68,7 @@ function Tile(x, y) {
 
 var tiles = [];
 let i = 0;
-while (i < 17) {
+while (i < 16) {
     for (let x = -3; x < 4; x++) {
         tiles[i] = new Tile(x, 0);
         tiles[i].draw();
