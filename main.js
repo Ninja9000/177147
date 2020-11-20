@@ -86,6 +86,7 @@ while (i < 16) {
     }
     tiles[i] = new Tile(0, 3);
     tiles[i].draw();
+    i++;
 }
 
 tiles[Math.round(Math.random() * 16)].realize();
