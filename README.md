@@ -7,4 +7,6 @@ Uses WAZXDE controls.
 
 Expect badness and madness to ensue.
 
-Extremely cursed code, with credit to [ced-h](https://github.com/cedric-h).
+Cursed code.
+
+Kudos to [ced-h](https://github.com/cedric-h).
